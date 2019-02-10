@@ -1,2 +1,2 @@
 # learning
-GIT Learning
+GIT Learning in CLI
